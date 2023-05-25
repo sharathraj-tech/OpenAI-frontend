@@ -8,7 +8,7 @@ import {Observable} from 'rxjs';
 })
 export class ChatapiService {
 
-  public baseurl='https://open-ai-frontend-tau.vercel.app/api/chat';
+  public baseurl='https://open-ai-backend-ruddy.vercel.app/api/chat';
 
   constructor(private httpClient:HttpClient) { }
 
