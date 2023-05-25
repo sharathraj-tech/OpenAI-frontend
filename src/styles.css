@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+.btnSend{
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 0;
+  float:right
+}
+body{
+  background-color: #27374D;
+}
+.answerpanelMain{
+  background-color: white;
+}
+.message{
+  border-radius: 0;
+}
